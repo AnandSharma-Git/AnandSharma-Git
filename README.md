@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱I'm currently learning DSA in Java
+# Hii👋i'am Anand
+💫I'm currently learning DSA in Java
 
 
 ## 🌐 Socials:
