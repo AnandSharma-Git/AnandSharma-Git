@@ -1,5 +1,5 @@
 # Hii👋i'am Anand
-💫I'm currently learning DSA in Java
+💫I'm currently learning Backend.
 
 
 ## 🌐 Socials:
