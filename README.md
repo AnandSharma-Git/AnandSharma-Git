@@ -1,5 +1,5 @@
 # Hii I'am Anand
-💫I'm currently learning Backend.
+💫I'm currently learning ML.
 
 
 ## 🌐 Socials:
