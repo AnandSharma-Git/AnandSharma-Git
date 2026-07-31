@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/anand-sharma-988120336">
+<a href="https://linkedin.com/in/anand--sh">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -111,14 +111,14 @@
 <p align="center">
 
 <a href="https://leetcode.com/u/Anand9919/">
-<!-- <img src="https://leetcard.jacoblin.cool/Anand9919?theme=dark&font=Poppins&ext=contest"/> -->
+<img src="https://leetcard.jacoblin.cool/Anand9919?theme=dark&font=Poppins"/>
 </a>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+
 
 <!-- <p align="center">
 
@@ -136,7 +136,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+
 
 <!-- <p align="center">
 
