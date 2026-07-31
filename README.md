@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anand </h1>
 
 <h3 align="center">
-💻 Software Engineer Aspirant | ☕ Java Developer | 🌐 Full Stack Developer | 🤖 Machine Learning Enthusiast
+💻 Software Engineer Aspirant | ☕ Java | 🌐 Full Stack Developer | 🤖 Machine Learning Enthusiast
 </h3>
 
 <p align="center">
@@ -23,8 +23,6 @@
 # 🚀 About Me
 
 🎓 B.Tech Computer Science Student
-
-💻 Passionate Java Developer
 
 🌱 Currently learning **Machine Learning & Deep Learning**
 
@@ -116,7 +114,6 @@
 
 </p>
 
----
 
 
 
@@ -134,7 +131,6 @@
 
 </p> -->
 
----
 
 
 
