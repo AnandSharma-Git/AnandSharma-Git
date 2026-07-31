@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anand Sharma</h1>
+<h1 align="center">Hi 👋, I'm Anand </h1>
 
 <h3 align="center">
 💻 Software Engineer Aspirant | ☕ Java Developer | 🌐 Full Stack Developer | 🤖 Machine Learning Enthusiast
