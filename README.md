@@ -111,7 +111,7 @@
 <p align="center">
 
 <a href="https://leetcode.com/u/Anand9919/">
-<img src="https://leetcard.jacoblin.cool/Anand9919?theme=dark&font=Poppins&ext=contest"/>
+<!-- <img src="https://leetcard.jacoblin.cool/Anand9919?theme=dark&font=Poppins&ext=contest"/> -->
 </a>
 
 </p>
@@ -120,7 +120,7 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnandSharma-Git&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -132,17 +132,17 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandSharma-Git&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=AnandSharma-Git&theme=algolia&no-frame=true&column=4"/>
 
-</p>
+</p> -->
 
 ---
 
