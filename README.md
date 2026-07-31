@@ -208,16 +208,8 @@
 
 ---
 
-<p align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=AnandSharma-Git&icon=5&color=12"/>
 
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
+ Thanks for visiting my profile! 🌱
 
 </h3>
