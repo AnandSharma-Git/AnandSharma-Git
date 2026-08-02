@@ -155,17 +155,16 @@
 # 📌 GitHub Summary
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnandSharma-Git&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AnandSharma-Git&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandSharma-Git&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnandSharma-Git&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnandSharma-Git&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnandSharma-Git&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnandSharma-Git&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
