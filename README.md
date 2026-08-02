@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anand </h1>
 
 <h3 align="center">
-💻 Software Engineer Aspirant | ☕ Java | 🌐 Full Stack Developer | 🤖 Machine Learning Enthusiast
+💻Aspiring Software Engineer | ☕ Java | 🌐 Full Stack Developer | 🤖 Machine Learning Enthusiast
 </h3>
 
 <p align="center">
